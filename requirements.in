@@ -1,0 +1,9 @@
+pytest-django
+requests
+django
+djangorestframework
+django-filter
+gunicorn
+psycopg2-binary
+python-dotenv
+pillow
